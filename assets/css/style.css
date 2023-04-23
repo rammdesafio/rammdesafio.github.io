@@ -1,0 +1,23 @@
+body {
+    font-family: "Roboto", sans-serif;
+  }
+  
+  /* Hero Section */
+  
+  #Hero-Section {
+    background-color:lightgray;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+  }
+
+
+#Acerca-de-mi .image-top {
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center;
+}
+.btn-success {
+  background-color: orange !important;
+}
